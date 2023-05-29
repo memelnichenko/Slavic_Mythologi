@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 7e8bdcffa6d3d9a40be33b1b79a466d1
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_39.osm_buildings_proxy_mat_general_reflectiveMat
+    second: {fileID: 2100000, guid: e4e69cc707d46424c8ff481c43148029, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_39.osm_buildings_proxy_mat_greyMat
+    second: {fileID: 2100000, guid: d6fcd3b90dfe41f4b9c54e8bb00cb85a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_39.osm_buildings_proxy_mat_roofMat
+    second: {fileID: 2100000, guid: daa9c32b986961a4c80f4b1cd1360eca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_39.osm_buildings_proxy_mat_stoneMat
+    second: {fileID: 2100000, guid: a1aab4f2c02a4c045bf1a5bffd59888c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_39.osm_buildings_proxy_mat_yellowMat
+    second: {fileID: 2100000, guid: ee0894597d8cce04b80b36bf581d712a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_39.osm_paths_footway_paths_footwayMat
+    second: {fileID: 2100000, guid: ff497cae1126d194fb4ff0753224f139, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_39.osm_paths_steps_paths_stepsMat
+    second: {fileID: 2100000, guid: 4b401b1e93cb914459bfafbbeb8187e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_39.osm_roads_primary_roads_primaryMat
+    second: {fileID: 2100000, guid: 385aff968ab106e4baba25fba4bfab59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_39.osm_roads_residential_roads_residentialMat
+    second: {fileID: 2100000, guid: 4ed45587d89b92d418c7f2dc3119fa0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_39.osm_roads_service_roads_serviceMat
+    second: {fileID: 2100000, guid: 802ff086745196a47be06ba0afb7d67a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_40.osm_buildings_proxy_mat_general_reflective.001Mat
+    second: {fileID: 2100000, guid: 7f7abac8349fa53428ec3f40b32bf2ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_40.osm_buildings_proxy_mat_grey.001Mat
+    second: {fileID: 2100000, guid: c65719b9499142a4fab3ea05ba75507d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_40.osm_buildings_proxy_mat_roof.001Mat
+    second: {fileID: 2100000, guid: 4ce48faff24ab5242a3dfcc8a71d8087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_40.osm_buildings_proxy_mat_stone.001Mat
+    second: {fileID: 2100000, guid: d43d1da6ae837974da797ed8226a2934, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_40.osm_buildings_proxy_mat_yellow.001Mat
+    second: {fileID: 2100000, guid: f3506a28932bded47bca69e69babcb82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_40.osm_paths_footway_paths_footwayMat
+    second: {fileID: 2100000, guid: 4b300d9a554e83948beedce0d497a9b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_40.osm_paths_steps_paths_stepsMat
+    second: {fileID: 2100000, guid: 6e9d7796057944a4cbc7db2f189eefb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: map_40.osm_roads_primary_roads_primaryMat
+    second: {fileID: 2100000, guid: 20ea2b6101a11564c82c0e7c0b94f9f6, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
